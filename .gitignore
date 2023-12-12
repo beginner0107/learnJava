@@ -27,5 +27,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-.idea/sonarlint/issuestore/index.pb
 .idea/vcs.xml
+.idea/sonarlint/**
+*.pb
+.idea/sonarlint/issuestore/index.pb
+.idea/sonarlint/securityhotspotstore/index.pb
